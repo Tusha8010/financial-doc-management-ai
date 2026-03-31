@@ -13,3 +13,4 @@ python-dotenv
 pdfplumber
 sentence-transformers
 faiss-cpu
+loguru
